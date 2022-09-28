@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "author": "Karol Kondracki",
+    "year": "2022",
+    "title": "Program ",
+    "read": true
+  },
+  {
+    "id": 2,
+    "author": "Karol Kondracki",
+    "year": "2022",
+    "title": "Zadanie Biblioteka",
+    "read": true
+  }
+]
